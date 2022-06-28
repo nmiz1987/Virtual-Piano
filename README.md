@@ -1,5 +1,8 @@
 # Virtual-Piano
 
+virtual piano was created as part of a graduation project for a degree in software engineering at Afeka College.
+Many thanks to project facilitator Mr. Amit Shtekel and partners Kirill Bortman.
+
 ## Purpose of the project
 
 to create a system that the player can use to simulate piano playing experience, without the need to carry a large and heavy piano, and without the need to purchase additional instruments and accessories beyond the existing camera in the cell phone.
